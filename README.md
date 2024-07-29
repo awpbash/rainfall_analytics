@@ -1,3 +1,5 @@
+## Understanding the impact climate shange on satellite communication
+
 This repository contains codes necessary to download and process precipitation data from various sources in order to perform long-term rainfall statistic analysis in accordance with ITU 837.
 ITU837 Annex 2 reccommends using sub hourly rainfall data to be input into their Matlab program to obtain R0.01% exceedance value at 1-min integration time. The codes in this repository will do exactly that and prepare the data for the Matlab program.
 
