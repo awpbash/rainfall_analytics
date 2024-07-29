@@ -17,4 +17,5 @@ An example of bias correction on future data is shown in projection_correction n
 
 Reference:
 1) Ibicus package: https://ibicus.readthedocs.io/en/latest/getting_started/overview.html
+2) MSS V3 dataset technical reports: https://t432-p683-blue.prd.cwp2.sg/v3-climate-projections/resources/v3-reports
 
