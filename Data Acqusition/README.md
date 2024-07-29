@@ -24,3 +24,5 @@ Available data you can get:
 Steps:
 1) Open the Jupyter notebook for the dataset that you want and follow instructions run code
 2) Extract data using Data Extraction folder
+
+*For chirps, it is advised to download directly from https://data.chc.ucsb.edu/products/CHIRPS-2.0/global_daily/netcdf/p05/
