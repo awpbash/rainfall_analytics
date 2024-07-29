@@ -1,5 +1,6 @@
+## Data extraction
 Welcome to the Data Extraction subfolder where we extract data (duh) for comparison
-Since the data we are working with are of different fomr, ie. Grid vs Point, it will be helpful for us to extract key points then compare them as this will take
+Since the data we are working with are of different form, ie. Grid vs Point, it will be helpful for us to extract key points then compare them as this will take
 less computer power and space then loading the entire file everytime
 
 Input: Grided file (GRIB, NC etc)
