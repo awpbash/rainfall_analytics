@@ -1,4 +1,6 @@
-Welcome to Data Aquisition where we attempt to reduce the painful process of obtaining data but we all know I write unreadable codes so gudluck
+# Data Acquisition
+
+Welcome to Data Acquisition where we attempt to reduce the painful process of obtaining data but we all know I write unreadable codes so gudluck
 
 Available data you can get:
 ---------------------------------------------------------------------------------------------------------
