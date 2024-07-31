@@ -16,13 +16,25 @@ To develop a model that:
 4) Is able to take in climate model projections data and obtain future R0.01% estimation
 
 
-Overview of rainfall attenuation model (Blue highlights scope of study:
+Overview of rainfall attenuation model (Blue highlights scope of study):
 
 ![image](https://github.com/user-attachments/assets/78f81829-1837-4483-9f4f-3ea361a327fa)
 
 Matlab output
 
 ![image](https://github.com/user-attachments/assets/127075d6-899b-4431-ae12-f7440a44e4c2)
+
+
+## Getting started
+
+Cloning files from github
+
+Open command line interface and type: ```git clone https://github.com/awpbash/rainfall_analytics.git```
+
+Installing depadancies
+
+```pip install -r requirements.txt```
+
 
 
 ## Future work
