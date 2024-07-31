@@ -1,0 +1,16 @@
+numpy
+selenium
+h5py
+matplotlib
+xarray
+dask
+ibicus
+openpyxl
+pandas
+scipy
+scikit-learn  # sklearn is often referred to as scikit-learn
+futures
+cfgrib
+netCDF4
+requests
+ftplib
