@@ -20,7 +20,9 @@ Overview of rainfall attenuation model (Blue highlights scope of study):
 
 ![image](https://github.com/user-attachments/assets/78f81829-1837-4483-9f4f-3ea361a327fa)
 
-Matlab output
+Matlab program
+
+The Matlab program can be accessed via ITU837 website. Do note that this requires an existing Matlab account with access to Matlab 2009a.
 
 ![image](https://github.com/user-attachments/assets/127075d6-899b-4431-ae12-f7440a44e4c2)
 
